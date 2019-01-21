@@ -1,0 +1,22 @@
+﻿  Model_Board.cpp
+d:\project\opengl\final\final\include\Angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\project\opengl\final\final\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\project\opengl\final\final\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Application\Visual Studio 2015\VC\include\FreeImage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Model_Board.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+Model_Board.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+Model_Board.cpp(98): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+Model_Board.cpp(120): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+Model_Board.cpp(121): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+  正在生成代码
+  1 of 1103 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FINAL.vcxproj -> D:\Project\OpenGL\FINAL\Release\FINAL.exe
+  FINAL.vcxproj -> D:\Project\OpenGL\FINAL\Release\FINAL.pdb (Full PDB)
